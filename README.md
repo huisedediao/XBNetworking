@@ -3,6 +3,7 @@
 
 使用要求：swift 3 </br>
 
-使用参考example
+使用参考oc版本：传送门：[XBHttpHandle](https://github.com/huisedediao/XBHttpHandle)
+
 <br/>
 
